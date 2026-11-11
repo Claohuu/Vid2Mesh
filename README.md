@@ -8,7 +8,8 @@ The project explores sparse-view 3D reconstruction techniques, with an emphasis 
 
 ## Project Goals
 
-3D Object Reconstruction from Video. Develop a tool that takes a video of an object and creates a 3D mesh asset of that object using 3D Gaussian splatting. Pull detailed surface textures and colors from the video directly onto the 3D object, creating a game-ready asset without the use of traditional modeling software. We will implement a polygon budget, decimating the model to specific triangle limits while preserving the overall geometry. 
+3D Object Reconstruction from Video. Develop a tool that takes a video of an object and creates a 3D mesh asset of that object using 3D Gaussian splatting. Pull detailed surface textures and colors from the video directly onto the 3D object, creating a game-ready asset without the use of traditional modeling software. We will implement a polygon budget, decimating the model to specific triangle limits while preserving the overall geometry.
+
 We want to investigate how different factors in a video (lighting, quality, length) affect the reconstruction quality of the object into a 3D model. We will look into camera video viewpoint coverage, lighting conditions, and object characteristics like geometric complexity and texture. We will also compare our videometry-based reconstruction to traditional photogrammetry-based reconstruction to see how close we can get to the modern technology that’s used to create professional-tier games and animation.
 
 ## Milestones
