@@ -1,0 +1,1 @@
+# extract the individual frames from the CO3D videos and save them

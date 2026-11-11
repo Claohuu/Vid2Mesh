@@ -1,0 +1,1 @@
+# load the CO3D videos and annotations

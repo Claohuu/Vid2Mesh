@@ -1,0 +1,1 @@
+# generate training labels for the CO3D dataset
